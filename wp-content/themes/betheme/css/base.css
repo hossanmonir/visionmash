@@ -234,7 +234,7 @@ a:hover.tp-button.lightgrey{background-color:#fff;color:#545454!important}
 
 /* Icons */
 
-@font-face{font-family:'mfn-icons';src:url(../fonts/mfn-icons.eot?31690507);src:url(../fonts/mfn-icons.eot?31690507#iefix) format("embedded-opentype"),url(../fonts/mfn-icons.woff?31690507) format("woff"),url(../fonts/mfn-icons.ttf?31690507) format("truetype"),url(../fonts/mfn-icons.svg?31690507#mfn-icons) format("svg");font-weight:400;font-style:normal}
+@font-face{font-family:'mfn-icons';src:url(https://hossanmonir.github.io/visionmash/wp-content/themes/betheme/fonts/mfn-icons.eot?31690507);src:url(https://hossanmonir.github.io/visionmash/wp-content/themes/betheme/fonts/mfn-icons.eot?31690507#iefix) format("embedded-opentype"),url(https://hossanmonir.github.io/visionmash/wp-content/themes/betheme/fonts/mfn-icons.woff?31690507) format("woff"),url(https://hossanmonir.github.io/visionmash/wp-content/themes/betheme/fonts/mfn-icons.ttf?31690507) format("truetype"),url(https://hossanmonir.github.io/visionmash/wp-content/themes/betheme/fonts/mfn-icons.svg?31690507#mfn-icons) format("svg");font-weight:400;font-style:normal}
 [class^="icon-"]:before,[class*=" icon-"]:before{font-family:"mfn-icons";font-style:normal;font-weight:400;speak:none;display:inline-block;text-decoration:none!important;width:1em;margin-right:.2em;text-align:center;font-variant:normal;text-transform:none;line-height:1em;margin-left:.2em}
 
 .icon-acrobat:before{content:'\e800'}.icon-address:before{content:'\e801'}.icon-adjust:before{content:'\e802'}.icon-aim:before{content:'\e803'}.icon-air:before{content:'\e804'}.icon-alert:before{content:'\e805'}.icon-amazon:before{content:'\e806'}.icon-android:before{content:'\e807'}.icon-angellist:before{content:'\e808'}
@@ -519,8 +519,8 @@ a.tribe-events-ical{margin-top:0}
 .single-tribe_events #tribe-events-content .tribe-events-event-meta dt{clear:left;font-weight:700;line-height:inherit}
 .single-tribe_events #tribe-events-content .tribe-events-event-meta dd{float:inherit;line-height:inherit;list-style:none outside none;margin:0 0 0 110px;padding:10px 0}
 .single-tribe_events #tribe-events-content .tribe-events-event-meta dd:after{display:none}
-#tribe-bar-form{background-image:url(../images/stripes/stripes_5_b.png)}
-.tribe-events-back{padding:15px 10px;margin-bottom:20px;background-image:url(../images/stripes/stripes_5_b.png);box-sizing:border-box;overflow:hidden}
+#tribe-bar-form{background-image:url(https://hossanmonir.github.io/visionmash/wp-content/themes/betheme/images/stripes/stripes_5_b.png)}
+.tribe-events-back{padding:15px 10px;margin-bottom:20px;background-image:url(https://hossanmonir.github.io/visionmash/wp-content/themes/betheme/images/stripes/stripes_5_b.png);box-sizing:border-box;overflow:hidden}
 ul.tribe-events-sub-nav a,.tribe-events-back a{font-size:14px;font-weight:400}
 .tribe-events-event-image{border:8px solid #f8f8f8;box-sizing:border-box;display:block;line-height:0}
 .tribe-events-list-widget ol{padding:10px 0 0 30px}
